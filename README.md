@@ -1,3 +1,11 @@
+Below is the description of the Kotlin Koans as originally forked from the parent repo. I have now completed these here, so the master branch in this repo contains only the solutions. I have completed them in a destructive way, so if you are interested in attempting these yourself, please go to the parent repo which I forked this from and fork that.
+
+Enjoy!
+Adrian
+
+
+Original README:
+
 Kotlin Koans
 ===========
 
